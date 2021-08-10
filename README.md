@@ -1,1 +1,1 @@
-<img src='banner ‐ Made with Clipchamp.gif' width:'100%' heith: '40px />
+<img src='banner ‐ Made with Clipchamp.gif' width="100%" height="200"/>
