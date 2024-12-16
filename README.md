@@ -4,7 +4,32 @@
 - 📬 Siempre dispuesta a aprender, si tienes una propuesta interesante en modalidad remota como Front-End o Full Stack, no dudes en contactarme.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreahernandez29)
+
+<div style="display: flex; gap: .25rem; align-items: center;">
+  <a href="https://www.linkedin.com/in/andreahernandez29">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&logoWidth=26" 
+      alt="LinkedIn" 
+      height="26"
+    >
+  </a>
+
+  <a href="https://andrea-hernandez-dev.vercel.app/">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-%23954386.svg?style=flat-square&logo=vercel&logoColor=white&logoWidth=26" 
+      alt="Portfolio" 
+      height="26"
+    >
+  </a>
+
+  <a href="mailto:andreajhl29@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white&logoWidth=26" 
+      alt="Gmail" 
+      height="26"
+    >
+  </a>
+</div>
 
 ## 🛠 Tech Stack:
 
@@ -39,6 +64,7 @@
 ## 🛠 Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
