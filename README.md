@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me:
-- 💼 Actualmente trabajo en AdGoat como Front End Engineer.
-- 👩‍💻 Tengo mas de 3 años de experiencia en el área de desarrollo.
+- 💼 Actualmente trabajo en Itti como Sr Front End Engineer.
+- 👩‍💻 Tengo 4 años de experiencia en el área de desarrollo.
 - 📬 Siempre dispuesta a aprender, si tienes una propuesta interesante en modalidad remota como Front-End o Full Stack, no dudes en contactarme.
 
 ## 🌐 Socials:
